@@ -225,7 +225,8 @@ Create a sample Excel file with:
 3. "What's the average of [numeric_column]?"
 4. "Show me the top 5 [category]"
 5. "Find correlations between numeric columns"
-
+6. "Create a chart comparing [col1] vs [col2]"
+7. "Sum of [numeric_col]"
 ---
 
 ## Project Structure
