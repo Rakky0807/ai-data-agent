@@ -344,5 +344,10 @@ For issues, check:
 4. Ollama logs: Check terminal running `ollama serve`
 
 ---
+<img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/0c5cb178-06a6-43d3-925a-d071215d0ada" />
+
+<img width="1122" height="861" alt="image" src="https://github.com/user-attachments/assets/020f163a-1e72-4a1d-a2e7-070db3e0eb85" />
+
+<img width="1135" height="570" alt="image" src="https://github.com/user-attachments/assets/e8f825cb-0341-4e3d-a76d-128d318804fd" />
 
 ## Built for SDE Hiring Assignment
